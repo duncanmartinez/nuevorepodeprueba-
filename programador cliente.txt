@@ -1,0 +1,6 @@
+clientes=("ariel",  "josefina","juan","marianella","mario")
+lista=clientes("ariel",  "josefina","juan","marianella","mario")
+
+print(clientes)
+
+()
